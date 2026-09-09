@@ -1,16 +1,14 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=EL-BETHEL%20KAMI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn"
-    width="100%"
-    alt="El-Bethel Kami"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=70&lines=EL-BETHEL+KAMI;FULL+STACK+WEB+DEVELOPER;Next.js+%7C+React+%7C+TypeScript;Building+Modern+Digital+Experiences+%F0%9F%9A%80"
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=60&lines=Next.js+%7C+React+%7C+TypeScript;Building+Modern+Web+Applications;UI%2FUX+%7C+PWA+%7C+Full+Stack;Turning+Ideas+Into+Digital+Experiences+🚀"
-    alt="Typing SVG"
-  />
+  <strong>🚀 Full Stack Web Developer</strong>
+  <br>
+  <sub>Turning ideas into modern, scalable and intuitive digital experiences.</sub>
 </p>
 
 <p align="center">
@@ -18,47 +16,43 @@
     <img src="https://img.shields.io/badge/GitHub-Beth002-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX-06B6D4?style=for-the-badge" alt="UI UX" />
 </p>
 
 ---
 
-# 👋 Hi there, I'm **El-Bethel Kami**
+# 👋 Hi, I'm **El-Bethel Kami**
 
-### 🚀 Full Stack Web Developer
+I'm a passionate **Full Stack Web Developer** who enjoys building modern web applications that are:
 
-I'm a passionate **Full Stack Web Developer** focused on creating modern, scalable and responsive web applications.
+* ⚡ Fast
+* 🎨 Beautiful
+* 📱 Responsive
+* 🔒 Reliable
+* 🚀 Scalable
 
-I enjoy turning ideas into **clean, functional and intuitive digital experiences**, with a strong interest in **UI/UX, modern web technologies and innovative solutions**.
+I love transforming ideas into **functional and intuitive digital products**, with a particular interest in **UI/UX, Progressive Web Apps and offline-first systems**.
 
 ---
 
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,mysql,tailwind,git" alt="My Skills" />
-</p>
+# 👨‍💻 About Me
 
 ### 💻 What I Do
 
 * 🚀 Build modern web applications with **Next.js, React & TypeScript**
-* 🎨 Create clean and responsive **UI/UX experiences**
+* 🎨 Design clean and responsive **UI/UX experiences**
 * ⚙️ Develop backend services and **REST APIs**
 * 🗄️ Design and manage **MySQL databases**
-* 📱 Build applications with **Progressive Web App** capabilities
-* 🔄 Explore **offline-first architectures** and data synchronization
-* ☁️ Deploy applications using **Vercel & Railway**
+* 📱 Build **Progressive Web Applications**
+* 🔄 Explore **offline-first architectures**
+* 🌐 Develop synchronization systems for unreliable connectivity
+* ☁️ Deploy applications using modern cloud platforms
 
-### 🎯 My Focus
+### 🎯 Current Focus
 
-<p align="center">
+I'm currently focusing on:
 
-⚡ **Fast**    •   
-🎨 **Beautiful**    •   
-📱 **Responsive**    •   
-🔒 **Reliable**    •   
-🚀 **Scalable**
-
-</p>
+**Full Stack Development • UI/UX • PWA • Offline-first Systems • Scalable Architecture**
 
 ---
 
@@ -67,26 +61,28 @@ I enjoy turning ideas into **clean, functional and intuitive digital experiences
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=7" alt="Frontend Technologies" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel&perline=3" alt="Backend Technologies" />
 </p>
 
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="MySQL" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,npm,yarn" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,npm,yarn&perline=7" alt="Tools and Platforms" />
 </p>
+
+Les icônes ci-dessus utilisent le format officiellement documenté par Skill Icons pour les README GitHub.
 
 ---
 
@@ -94,7 +90,7 @@ I enjoy turning ideas into **clean, functional and intuitive digital experiences
 
 ## ⛪ Church Management Website
 
-A modern church platform built to provide an elegant digital experience for church members and visitors.
+A modern digital platform designed to provide an elegant and accessible experience for church members and visitors.
 
 ### ✨ Features
 
@@ -104,11 +100,12 @@ A modern church platform built to provide an elegant digital experience for chur
 * 📢 Announcements
 * 📖 Bible verses
 * 📩 Contact system
-* 📱 Responsive UI
+* 📱 Responsive interface
 * 🗄️ MySQL database
 * ☁️ Cloud deployment
 
-**🧰 Tech Stack:**
+**🧰 Technologies**
+
 `Next.js` `TypeScript` `Tailwind CSS` `MySQL` `Vercel` `Railway`
 
 ---
@@ -124,9 +121,11 @@ An **offline-first digital platform** designed for environments where Internet c
 * 🔄 Automatic synchronization
 * 🌐 REST API
 * ⚡ Modern web architecture
-* 🔁 Synchronization between local and server data
+* 🔁 Local ↔ Server data synchronization
+* 📴 Designed for unreliable connectivity
 
-**🧰 Tech Stack:**
+**🧰 Technologies**
+
 `Next.js` `TypeScript` `NestJS` `MySQL` `Dexie.js`
 
 ---
@@ -134,11 +133,11 @@ An **offline-first digital platform** designed for environments where Internet c
 # 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel&perline=1" alt="Laravel" />
 </p>
 
 * 🔥 **Laravel**
-* 📱 **Progressive Web Apps**
+* 📱 **Progressive Web Applications**
 * 🎨 **Advanced UI/UX**
 * 🌐 **Offline-first Architecture**
 * 🥽 **Virtual Reality Development**
@@ -146,26 +145,33 @@ An **offline-first digital platform** designed for environments where Internet c
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 What I'm Building
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Beth002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+
+**💡 Ideas**
+↓
+**🎨 UI/UX Design**
+↓
+**💻 Development**
+↓
+**⚙️ Backend & Database**
+↓
+**🔄 Synchronization**
+↓
+**🚀 Deployment**
+
 </p>
+
+I believe great software is created by combining **good engineering, thoughtful design and real-world problem solving**.
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 My Development Philosophy
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Beth002&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+> **"Don't just write code. Build solutions that make a difference."**
+
+I aim to create applications that are not only technically solid, but also **useful, accessible and enjoyable to use**.
 
 ---
 
@@ -177,28 +183,15 @@ An **offline-first digital platform** designed for environments where Internet c
   </a>
 </p>
 
+<p align="center">
+  <strong>💻 Build. Learn. Innovate. 🚀</strong>
+</p>
+
 ---
 
-# 💡 Developer Mindset
-
-<p align="center">
-  <i>
-    "Great software is not just about writing code.<br>
-    It's about solving problems and creating experiences."
-  </i>
-</p>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting+my+profile!+👋;Keep+building.+Keep+learning.+Keep+innovating.+🚀;See+you+in+the+next+project!+💻"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+building.+Keep+learning.+Keep+innovating.+%F0%9F%9A%80"
     alt="Footer Animation"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"
-    width="100%"
-    alt="Footer"
   />
 </p>
