@@ -1,14 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=EL-BETHEL%20KAMI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=EL-BETHEL%20KAMI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn"
+    width="100%"
+    alt="El-Bethel Kami"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Next.js+%7C+React+%7C+TypeScript;Building+Modern+Web+Applications;UI%2FUX+%7C+PWA+%7C+Full+Stack;Turning+Ideas+Into+Digital+Experiences+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=60&lines=Next.js+%7C+React+%7C+TypeScript;Building+Modern+Web+Applications;UI%2FUX+%7C+PWA+%7C+Full+Stack;Turning+Ideas+Into+Digital+Experiences+🚀"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Beth002?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=Beth002&label=Profile%20Views&style=for-the-badge&color=2563eb" alt="Profile Views" />
+  <a href="https://github.com/Beth002">
+    <img src="https://img.shields.io/badge/GitHub-Beth002-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge" alt="Full Stack Developer" />
 </p>
 
 ---
@@ -26,7 +35,7 @@ I enjoy turning ideas into **clean, functional and intuitive digital experiences
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,nestjs,mysql,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,mysql,tailwind,git" alt="My Skills" />
 </p>
 
 ### 💻 What I Do
@@ -41,36 +50,42 @@ I enjoy turning ideas into **clean, functional and intuitive digital experiences
 
 ### 🎯 My Focus
 
-I'm particularly interested in building applications that are:
+<p align="center">
 
-> ⚡ **Fast**   •   🎨 **Beautiful**   •   📱 **Responsive**   •   🔒 **Reliable**   •   🚀 **Scalable**
+⚡ **Fast**    •   
+🎨 **Beautiful**    •   
+📱 **Responsive**    •   
+🔒 **Reliable**    •   
+🚀 **Scalable**
+
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🎨 Frontend
+### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Frontend Technologies" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" alt="Backend Technologies" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies" />
 </p>
 
-## 🔧 Tools & Platforms
+### 🔧 Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,npm,yarn" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,npm,yarn" alt="Tools and Platforms" />
 </p>
 
 ---
@@ -119,7 +134,7 @@ An **offline-first digital platform** designed for environments where Internet c
 # 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
 </p>
 
 * 🔥 **Laravel**
@@ -134,8 +149,11 @@ An **offline-first digital platform** designed for environments where Internet c
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beth002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beth002&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Beth002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -143,23 +161,10 @@ An **offline-first digital platform** designed for environments where Internet c
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Beth002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beth002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beth002&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Beth002&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -168,7 +173,7 @@ An **offline-first digital platform** designed for environments where Internet c
 
 <p align="center">
   <a href="https://github.com/Beth002">
-    <img src="https://img.shields.io/badge/GitHub-Beth002-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Beth002-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -184,9 +189,16 @@ An **offline-first digital platform** designed for environments where Internet c
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+👋;Keep+building.+Keep+learning.+Keep+innovating.+🚀;See+you+in+the+next+project!+💻" alt="Footer Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting+my+profile!+👋;Keep+building.+Keep+learning.+Keep+innovating.+🚀;See+you+in+the+next+project!+💻"
+    alt="Footer Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
